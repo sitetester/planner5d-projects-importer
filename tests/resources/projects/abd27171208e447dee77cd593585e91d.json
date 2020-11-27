@@ -1,0 +1,3033 @@
+{
+  "items": [
+    {
+      "cdate": "2020-11-20 14:54:51",
+      "udate": "2020-11-20 14:54:51",
+      "cstatus": "0",
+      "folder": "0",
+      "fuid": "4550601",
+      "name": "Kitchen",
+      "s": "0.0",
+      "hash": "abd27171208e447dee77cd593585e91d",
+      "uid": "0",
+      "data": {
+        "className": "Project",
+        "version": 2,
+        "width": 8000,
+        "height": 8000,
+        "ss": [
+          {
+            "id": 1,
+            "surl": "SQ9TL",
+            "is3d": 1,
+            "taskId": 2551914
+          },
+          {
+            "id": 2,
+            "surl": "SQ9VS",
+            "is3d": 1,
+            "taskId": 2551920
+          },
+          {
+            "id": 3,
+            "surl": "SQ9V1",
+            "is3d": 1,
+            "taskId": 2551932
+          },
+          {
+            "id": 4,
+            "surl": "SQ9X3",
+            "is3d": 1,
+            "taskId": 2551998
+          },
+          {
+            "id": 5,
+            "surl": "SQ9XJ",
+            "is3d": 1,
+            "taskId": 2552008
+          },
+          {
+            "id": 7,
+            "surl": "SQ9YF",
+            "is3d": 1,
+            "taskId": 2552037
+          },
+          {
+            "id": 8,
+            "surl": "SQ9ZP",
+            "is3d": 1,
+            "taskId": 2552045
+          },
+          {
+            "id": 9,
+            "surl": "SQ9ZW",
+            "is3d": 1,
+            "taskId": 2552051
+          },
+          {
+            "id": 10,
+            "surl": "SQ9ZY",
+            "is3d": 1,
+            "taskId": 2552053
+          },
+          {
+            "id": 11,
+            "surl": "SQ9Z7",
+            "is3d": 1,
+            "taskId": 2552056
+          },
+          {
+            "id": 13,
+            "surl": "SQ9Z0",
+            "is3d": 1,
+            "taskId": 2552059
+          },
+          {
+            "id": 15,
+            "surl": "SQ9ZF",
+            "is3d": 1,
+            "taskId": 2552069
+          },
+          {
+            "id": 16,
+            "surl": "SQ3D6",
+            "is3d": 1,
+            "taskId": 2556590
+          },
+          {
+            "id": 17,
+            "surl": "SQ3DB",
+            "is3d": 1,
+            "taskId": 2556601
+          },
+          {
+            "id": 18,
+            "surl": "SQ3FM",
+            "is3d": 1,
+            "taskId": 2556642
+          },
+          {
+            "id": 19,
+            "surl": "SQ3GS",
+            "is3d": 1,
+            "taskId": 2556647
+          },
+          {
+            "id": 22,
+            "surl": "SQ3H7",
+            "is3d": 1,
+            "taskId": 2556687
+          },
+          {
+            "id": 23,
+            "surl": "SQ3H2",
+            "is3d": 1,
+            "taskId": 2556692
+          },
+          {
+            "id": 26,
+            "surl": "SQ3HD",
+            "is3d": 1,
+            "taskId": 2556699
+          },
+          {
+            "id": 27,
+            "surl": "SQ3HG",
+            "is3d": 1,
+            "taskId": 2556701
+          },
+          {
+            "id": 28,
+            "surl": "SQ3HH",
+            "is3d": 1,
+            "taskId": 2556702
+          },
+          {
+            "id": 29,
+            "surl": "SQ3HK",
+            "is3d": 1,
+            "taskId": 2556704
+          },
+          {
+            "id": 30,
+            "surl": "SQ3HM",
+            "is3d": 1,
+            "taskId": 2556706
+          },
+          {
+            "id": 32,
+            "surl": "SQ3JP",
+            "is3d": 1,
+            "taskId": 2556708
+          },
+          {
+            "id": 33,
+            "surl": "SQ3JQ",
+            "is3d": 1,
+            "taskId": 2556709
+          }
+        ],
+        "sscounter": 33,
+        "s": 0,
+        "currentFloor": 0,
+        "autoinc": 110,
+        "viewOptions": {
+          "showNs": true,
+          "showDimensions": true,
+          "lockWalls": false
+        },
+        "ground": {
+          "texture": "ground_1001.jpg",
+          "color": "#8b7656"
+        },
+        "zoom": {
+          "min": 0.2,
+          "max": 5
+        },
+        "v": 890,
+        "cover": 26,
+        "items": [
+          {
+            "className": "Floor",
+            "name": "First floor",
+            "h": 275,
+            "puid": "p1",
+            "items": [
+              {
+                "className": "Room",
+                "x": 3750,
+                "y": 3750,
+                "z": 0,
+                "sX": -207.0886363636364,
+                "sY": 214.85714285714266,
+                "rtype": 13,
+                "h": 280,
+                "thickness": 10,
+                "materials": {
+                  "floor": {
+                    "texture": "concrete_1050",
+                    "color": "#FFFFFF",
+                    "scale": "0.8",
+                    "rotate": "0",
+                    "tcolor": "#c0c0c0"
+                  },
+                  "ceil": {
+                    "texture": "linen_1_4",
+                    "color": "#FFFFFF",
+                    "scale": 1,
+                    "rotate": 0
+                  },
+                  "indoor": {
+                    "texture": "wallp_0",
+                    "color": "#FFFFFF",
+                    "scale": 1,
+                    "rotate": 0
+                  },
+                  "outdoor": {
+                    "texture": "wallp_0",
+                    "color": "#FFFFFF",
+                    "scale": 1,
+                    "rotate": 0
+                  }
+                },
+                "rhidden": false,
+                "fhidden": false,
+                "puid": "p2",
+                "items": [
+                  {
+                    "className": "Wall",
+                    "hidden": false,
+                    "w": 10,
+                    "materials": {
+                      "indoor": {
+                        "texture": "concrete_1014",
+                        "color": "#ffffff",
+                        "scale": "2",
+                        "rotate": "0",
+                        "tcolor": "#ffffff"
+                      },
+                      "outdoor": {
+                        "texture": "wallp_0",
+                        "color": "#ffffff",
+                        "scale": 1,
+                        "rotate": 0,
+                        "tcolor": "#ffffff"
+                      }
+                    },
+                    "puid": "p3",
+                    "items": [
+                      {
+                        "className": "Point",
+                        "x": -435.2000000000003,
+                        "y": 0,
+                        "puid": "p4"
+                      },
+                      {
+                        "className": "Point",
+                        "x": 21.02272727272748,
+                        "y": 0,
+                        "puid": "p5"
+                      }
+                    ]
+                  },
+                  {
+                    "className": "Wall",
+                    "hidden": false,
+                    "w": 10,
+                    "materials": {
+                      "indoor": {
+                        "texture": "wallp_0",
+                        "color": "#ffffff",
+                        "scale": 1,
+                        "rotate": 0,
+                        "tcolor": "#ffffff"
+                      },
+                      "outdoor": {
+                        "texture": "wallp_0",
+                        "color": "#ffffff",
+                        "scale": 1,
+                        "rotate": 0,
+                        "tcolor": "#ffffff"
+                      }
+                    },
+                    "puid": "p6",
+                    "items": [
+                      {
+                        "className": "Point",
+                        "x": 21.02272727272748,
+                        "y": 0,
+                        "puid": "p7"
+                      },
+                      {
+                        "className": "Point",
+                        "x": 21.02272727272748,
+                        "y": 429.7142857142853,
+                        "puid": "p8"
+                      }
+                    ]
+                  },
+                  {
+                    "className": "Wall",
+                    "hidden": false,
+                    "w": 10,
+                    "materials": {
+                      "indoor": {
+                        "texture": "concrete_1014",
+                        "color": "#ffffff",
+                        "scale": "2",
+                        "rotate": "0",
+                        "tcolor": "#ffffff"
+                      },
+                      "outdoor": {
+                        "texture": "wallp_0",
+                        "color": "#ffffff",
+                        "scale": 1,
+                        "rotate": 0,
+                        "tcolor": "#ffffff"
+                      }
+                    },
+                    "puid": "p9",
+                    "items": [
+                      {
+                        "className": "Point",
+                        "x": 21.02272727272748,
+                        "y": 429.7142857142853,
+                        "puid": "p10"
+                      },
+                      {
+                        "className": "Point",
+                        "x": -435.2000000000003,
+                        "y": 429.7142857142853,
+                        "puid": "p11"
+                      }
+                    ]
+                  },
+                  {
+                    "className": "Wall",
+                    "hidden": false,
+                    "w": 40,
+                    "materials": {
+                      "indoor": {
+                        "texture": "wallp_0",
+                        "color": "#ffffff",
+                        "scale": 1,
+                        "rotate": 0,
+                        "tcolor": "#ffffff"
+                      },
+                      "outdoor": {
+                        "texture": "wallp_0",
+                        "color": "#ffffff",
+                        "scale": 1,
+                        "rotate": 0,
+                        "tcolor": "#ffffff"
+                      }
+                    },
+                    "puid": "p12",
+                    "items": [
+                      {
+                        "className": "Point",
+                        "x": -435.2000000000003,
+                        "y": 429.7142857142853,
+                        "puid": "p13"
+                      },
+                      {
+                        "className": "Point",
+                        "x": -435.2000000000003,
+                        "y": 0,
+                        "puid": "p14"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "className": "Ns",
+                "id": "s/3005",
+                "x": 3399.9999999999995,
+                "y": 3788.3333333333335,
+                "z": 0,
+                "otf": 1,
+                "sX": 100,
+                "sY": 100,
+                "sZ": 100,
+                "fX": 0,
+                "fY": 0,
+                "a": 0,
+                "aframe": 0,
+                "stored": {
+                  "id": "s/3005",
+                  "cid": "62",
+                  "data": null,
+                  "className": null,
+                  "size": [
+                    "91",
+                    "63",
+                    "89"
+                  ],
+                  "g": false
+                },
+                "puid": "p19",
+                "materials": [
+                  {
+                    "color": "#1e1d19",
+                    "texture": "wood_14_5",
+                    "name": "wood_3"
+                  },
+                  {
+                    "color": "#000000",
+                    "name": "color_3"
+                  },
+                  {
+                    "color": "#FFFFFF",
+                    "texture": "metal_1034",
+                    "name": "wood",
+                    "scale": "1",
+                    "rotate": "0"
+                  }
+                ]
+              },
+              {
+                "className": "Ns",
+                "id": "s/3005",
+                "x": 3490,
+                "y": 3817,
+                "z": 0,
+                "otf": 1,
+                "sX": 100,
+                "sY": 7.936507936507936,
+                "sZ": 100,
+                "fX": 0,
+                "fY": 0,
+                "a": 0,
+                "aframe": 0,
+                "stored": {
+                  "id": "s/3005",
+                  "cid": "62",
+                  "data": null,
+                  "className": null,
+                  "size": [
+                    "91",
+                    "63",
+                    "89"
+                  ],
+                  "g": false
+                },
+                "materials": [
+                  {
+                    "color": "#1e1d19",
+                    "texture": "wood_14_5",
+                    "name": "wood_3"
+                  },
+                  {
+                    "color": "#000000",
+                    "name": "color_3"
+                  },
+                  {
+                    "color": "#FFFFFF",
+                    "texture": "metal_1034",
+                    "name": "wood",
+                    "scale": "1",
+                    "rotate": "0"
+                  }
+                ],
+                "puid": "p20"
+              },
+              {
+                "className": "Ns",
+                "id": "s/3005",
+                "x": 3581,
+                "y": 3788,
+                "z": 0,
+                "otf": 1,
+                "sX": 100,
+                "sY": 100,
+                "sZ": 100,
+                "fX": 0,
+                "fY": 0,
+                "a": 0,
+                "aframe": 0,
+                "stored": {
+                  "id": "s/3005",
+                  "cid": "62",
+                  "data": null,
+                  "className": null,
+                  "size": [
+                    "91",
+                    "63",
+                    "89"
+                  ],
+                  "g": false
+                },
+                "materials": [
+                  {
+                    "color": "#1e1d19",
+                    "texture": "wood_14_5",
+                    "name": "wood_3"
+                  },
+                  {
+                    "color": "#000000",
+                    "name": "color_3"
+                  },
+                  {
+                    "color": "#FFFFFF",
+                    "texture": "metal_1034",
+                    "name": "wood",
+                    "scale": "1",
+                    "rotate": "0"
+                  }
+                ],
+                "puid": "p21"
+              },
+              {
+                "className": "Pr",
+                "t": "box",
+                "materials": [
+                  {
+                    "name": "top",
+                    "texture": "solo_7",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "bottom",
+                    "texture": "solo_7",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "left",
+                    "texture": "solo_7",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "right",
+                    "texture": "solo_7",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "front",
+                    "texture": "solo_7",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "back",
+                    "texture": "solo_7",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "all",
+                    "texture": "solo_7",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  }
+                ],
+                "x": 3488.555555555555,
+                "y": 3769.222222222222,
+                "z": 147,
+                "sX": 230,
+                "sY": 25,
+                "sZ": 4,
+                "aX": 0,
+                "aY": 0,
+                "aZ": 0,
+                "puid": "p22"
+              },
+              {
+                "className": "Ns",
+                "id": "s/2546",
+                "x": 3493,
+                "y": 3766,
+                "z": 119,
+                "otf": 1,
+                "sX": 168.0672268907563,
+                "sY": 71.42857142857143,
+                "sZ": 100,
+                "fX": 0,
+                "fY": 0,
+                "a": 0,
+                "aframe": 0,
+                "stored": {
+                  "id": "s/2546",
+                  "cid": "43",
+                  "data": null,
+                  "className": null,
+                  "size": [
+                    "119",
+                    "28",
+                    "26"
+                  ],
+                  "g": false
+                },
+                "puid": "p24",
+                "materials": [
+                  {
+                    "color": "rgb(4,4,4)",
+                    "name": "color_2"
+                  },
+                  {
+                    "color": "rgb(4,4,4)",
+                    "name": "color_1"
+                  }
+                ]
+              },
+              {
+                "className": "Pr",
+                "t": "box",
+                "materials": [
+                  {
+                    "name": "top",
+                    "texture": "solo_7",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "bottom",
+                    "texture": "solo_7",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "left",
+                    "texture": "solo_7",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "right",
+                    "texture": "solo_7",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "front",
+                    "texture": "solo_7",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "back",
+                    "texture": "solo_7",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "all",
+                    "texture": "solo_7",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  }
+                ],
+                "x": 3488,
+                "y": 3769,
+                "z": 186,
+                "sX": 230,
+                "sY": 25,
+                "sZ": 4,
+                "aX": 0,
+                "aY": 0,
+                "aZ": 0,
+                "puid": "p27"
+              },
+              {
+                "className": "Ns",
+                "id": "s/2546",
+                "x": 3493,
+                "y": 3766,
+                "z": 159,
+                "otf": 1,
+                "sX": 168.0672268907563,
+                "sY": 71.42857142857143,
+                "sZ": 100,
+                "fX": 0,
+                "fY": 0,
+                "a": 0,
+                "aframe": 0,
+                "stored": {
+                  "id": "s/2546",
+                  "cid": "43",
+                  "data": null,
+                  "className": null,
+                  "size": [
+                    "119",
+                    "28",
+                    "26"
+                  ],
+                  "g": false
+                },
+                "materials": [
+                  {
+                    "color": "rgb(4,4,4)",
+                    "name": "color_2"
+                  },
+                  {
+                    "color": "rgb(4,4,4)",
+                    "name": "color_1"
+                  }
+                ],
+                "puid": "p28"
+              },
+              {
+                "className": "Window",
+                "id": "s/2010",
+                "x": 3313.7999999999997,
+                "y": 3896.972195980994,
+                "z": 95,
+                "otf": 1,
+                "sX": 100,
+                "sY": 100,
+                "sZ": 64,
+                "fX": 0,
+                "fY": 0,
+                "a": 180,
+                "aframe": 0,
+                "stored": {
+                  "id": "s/2010",
+                  "cid": "5",
+                  "data": null,
+                  "className": null,
+                  "size": [
+                    "129",
+                    "14",
+                    "250"
+                  ],
+                  "g": false
+                },
+                "puid": "p29",
+                "materials": [
+                  {
+                    "color": "#ffffff",
+                    "name": "color_1"
+                  },
+                  {
+                    "color": "#241b1a",
+                    "texture": "wood_9",
+                    "name": "wood"
+                  }
+                ],
+                "wall": "p12"
+              },
+              {
+                "className": "Ns",
+                "id": "s/920",
+                "x": 3490,
+                "y": 3788,
+                "z": 0,
+                "otf": 1,
+                "sX": 100,
+                "sY": 93.75,
+                "sZ": 100,
+                "fX": 0,
+                "fY": 0,
+                "a": 0,
+                "aframe": 0,
+                "stored": {
+                  "id": "s/920",
+                  "cid": "62",
+                  "data": null,
+                  "className": null,
+                  "size": [
+                    "60",
+                    "64",
+                    "119"
+                  ],
+                  "g": false
+                },
+                "puid": "p33",
+                "materials": [
+                  {
+                    "color": "#ffffff",
+                    "name": "color_2"
+                  },
+                  {
+                    "color": "rgb(0,0,0)",
+                    "name": "color_1"
+                  },
+                  {
+                    "color": "#d3955f",
+                    "texture": "wood_3",
+                    "name": "wood",
+                    "scale": "1",
+                    "rotate": "0",
+                    "tcolor": "#000000"
+                  },
+                  {
+                    "color": "#FFFFFF",
+                    "texture": "decorstone_1002",
+                    "name": "stone",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "color": "#c0c0c0",
+                    "name": "chrome"
+                  }
+                ]
+              },
+              {
+                "className": "Pr",
+                "t": "box",
+                "materials": [
+                  {
+                    "name": "top",
+                    "texture": "solo_1",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "bottom",
+                    "texture": "solo_1",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "left",
+                    "texture": "solo_1",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "right",
+                    "texture": "solo_1",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "front",
+                    "texture": "solo_1",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "back",
+                    "texture": "solo_1",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "all",
+                    "texture": "solo_1",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  }
+                ],
+                "x": 3491,
+                "y": 3818,
+                "z": 0,
+                "sX": 270,
+                "sY": 2,
+                "sZ": 17,
+                "aX": 0,
+                "aY": 0,
+                "aZ": 0,
+                "puid": "p34"
+              },
+              {
+                "className": "Pr",
+                "t": "box",
+                "materials": [
+                  {
+                    "name": "top",
+                    "texture": "metal_1020",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "bottom",
+                    "texture": "metal_1020",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "left",
+                    "texture": "metal_1020",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "right",
+                    "texture": "metal_1020",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "front",
+                    "texture": "metal_1020",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "back",
+                    "texture": "metal_1020",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "all",
+                    "texture": "metal_1020",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  }
+                ],
+                "x": 3407.166666666667,
+                "y": 3788.5,
+                "z": 92,
+                "sX": 110,
+                "sY": 65,
+                "sZ": 3,
+                "aX": 0,
+                "aY": 0,
+                "aZ": 0,
+                "puid": "p35"
+              },
+              {
+                "className": "Pr",
+                "t": "box",
+                "materials": [
+                  {
+                    "name": "top",
+                    "texture": "metal_1020",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "bottom",
+                    "texture": "metal_1020",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "left",
+                    "texture": "metal_1020",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "right",
+                    "texture": "metal_1020",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "front",
+                    "texture": "metal_1020",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "back",
+                    "texture": "metal_1020",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "all",
+                    "texture": "metal_1020",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  }
+                ],
+                "x": 3574,
+                "y": 3788,
+                "z": 92,
+                "sX": 110,
+                "sY": 65,
+                "sZ": 3,
+                "aX": 0,
+                "aY": 0,
+                "aZ": 0,
+                "puid": "p36"
+              },
+              {
+                "className": "Pr",
+                "t": "box",
+                "materials": [
+                  {
+                    "name": "top",
+                    "texture": "metal_1020",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "bottom",
+                    "texture": "metal_1020",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "left",
+                    "texture": "metal_1020",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "right",
+                    "texture": "metal_1020",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "front",
+                    "texture": "metal_1020",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "back",
+                    "texture": "metal_1020",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "all",
+                    "texture": "metal_1020",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  }
+                ],
+                "x": 3491,
+                "y": 3816,
+                "z": 92,
+                "sX": 60,
+                "sY": 10,
+                "sZ": 3,
+                "aX": 0,
+                "aY": 0,
+                "aZ": 0,
+                "puid": "p37"
+              },
+              {
+                "className": "Pr",
+                "t": "box",
+                "materials": [
+                  {
+                    "name": "top",
+                    "texture": "metal_1020",
+                    "tcolor": "#808080",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "bottom",
+                    "texture": "metal_1020",
+                    "tcolor": "#808080",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "left",
+                    "texture": "metal_1020",
+                    "tcolor": "#808080",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "right",
+                    "texture": "metal_1020",
+                    "tcolor": "#808080",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "front",
+                    "texture": "metal_1020",
+                    "tcolor": "#808080",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "back",
+                    "texture": "metal_1020",
+                    "tcolor": "#808080",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "all",
+                    "texture": "metal_1020",
+                    "tcolor": "#808080",
+                    "scale": "1",
+                    "rotate": "0"
+                  }
+                ],
+                "x": 3336,
+                "y": 3897,
+                "z": 94,
+                "sX": 37,
+                "sY": 137,
+                "sZ": 5,
+                "aX": 0,
+                "aY": 0,
+                "aZ": 0,
+                "puid": "p42"
+              },
+              {
+                "className": "Pr",
+                "t": "box",
+                "materials": [
+                  {
+                    "name": "top",
+                    "texture": "wallp_0",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "bottom",
+                    "texture": "wallp_0",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "left",
+                    "texture": "wallp_0",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "right",
+                    "texture": "wallp_0",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "front",
+                    "texture": "wallp_0",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "back",
+                    "texture": "wallp_0",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "all",
+                    "texture": "wallp_0",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  }
+                ],
+                "x": 3351,
+                "y": 3998,
+                "z": 0,
+                "sX": 2,
+                "sY": 350,
+                "sZ": 20,
+                "aX": 0,
+                "aY": 0,
+                "aZ": 0,
+                "puid": "p43"
+              },
+              {
+                "className": "Ns",
+                "id": "s/6681",
+                "x": 3326,
+                "y": 3897,
+                "z": 122,
+                "otf": 1,
+                "sX": 85.71428571428571,
+                "sY": 100,
+                "sZ": 118.18181818181819,
+                "fX": 0,
+                "fY": 0,
+                "a": -90,
+                "aframe": 0,
+                "stored": {
+                  "id": "s/6681",
+                  "cid": "16",
+                  "data": null,
+                  "className": null,
+                  "size": [
+                    "140",
+                    "13",
+                    "110"
+                  ],
+                  "g": false
+                },
+                "materials": [
+                  {
+                    "color": "rgb(203,203,203)",
+                    "name": "chrome_2"
+                  },
+                  {
+                    "color": "#FFFFFF",
+                    "texture": "textile_19",
+                    "name": "textile_1",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "color": "rgb(255,255,255)",
+                    "name": "color_1"
+                  },
+                  {
+                    "color": "#ffffff",
+                    "name": "chrome_1"
+                  },
+                  {
+                    "color": "#FFFFFF",
+                    "texture": "solo_1",
+                    "name": "wood_1",
+                    "scale": "1",
+                    "rotate": "0"
+                  }
+                ],
+                "puid": "p44"
+              },
+              {
+                "className": "Pr",
+                "t": "box",
+                "materials": [
+                  {
+                    "name": "top",
+                    "texture": "solo_1",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "bottom",
+                    "texture": "solo_1",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "left",
+                    "texture": "solo_1",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "right",
+                    "texture": "solo_1",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "front",
+                    "texture": "solo_1",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "back",
+                    "texture": "solo_1",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "all",
+                    "texture": "solo_1",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  }
+                ],
+                "x": 3491,
+                "y": 3819,
+                "z": 88,
+                "sX": 270,
+                "sY": 2,
+                "sZ": 1,
+                "aX": 0,
+                "aY": 0,
+                "aZ": 0,
+                "puid": "p45"
+              },
+              {
+                "className": "Ns",
+                "id": "s/3059",
+                "x": 3657,
+                "y": 3787,
+                "z": 0,
+                "otf": 1,
+                "sX": 100,
+                "sY": 100,
+                "sZ": 100,
+                "fX": 0,
+                "fY": 0,
+                "a": 0,
+                "aframe": 0,
+                "stored": {
+                  "id": "s/3059",
+                  "cid": "62",
+                  "data": null,
+                  "className": null,
+                  "size": [
+                    "61",
+                    "63",
+                    "240"
+                  ],
+                  "g": false
+                },
+                "puid": "p48",
+                "materials": [
+                  {
+                    "color": "#FFFFFF",
+                    "texture": "solo_1",
+                    "name": "wood",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "color": "#FFFFFF",
+                    "texture": "metal_1034",
+                    "name": "wood_2",
+                    "scale": "1",
+                    "rotate": "0"
+                  }
+                ]
+              },
+              {
+                "className": "Ns",
+                "id": "s/4418",
+                "x": 3657,
+                "y": 3788,
+                "z": 70,
+                "otf": 1,
+                "sX": 100,
+                "sY": 100,
+                "sZ": 92.06349206349206,
+                "fX": 0,
+                "fY": 0,
+                "a": 0,
+                "aframe": 0,
+                "stored": {
+                  "id": "s/4418",
+                  "cid": "20",
+                  "data": null,
+                  "className": null,
+                  "size": [
+                    "60",
+                    "60",
+                    "126"
+                  ],
+                  "g": false
+                },
+                "puid": "p49",
+                "materials": [
+                  {
+                    "color": "rgb(204,204,204)",
+                    "name": "chrome"
+                  },
+                  {
+                    "color": "rgb(204,204,204)",
+                    "name": "chrome"
+                  },
+                  {
+                    "color": "#333333",
+                    "name": "color_4"
+                  },
+                  {
+                    "color": "rgb(204,204,204)",
+                    "name": "color_1"
+                  },
+                  {
+                    "color": "#ffffff",
+                    "name": "color_10"
+                  },
+                  {
+                    "color": "rgb(255,255,255)",
+                    "name": "color_5"
+                  },
+                  {
+                    "color": "#ffffff",
+                    "name": "color_7"
+                  },
+                  {
+                    "color": "rgb(255,255,255)",
+                    "name": "color_6"
+                  },
+                  {
+                    "color": "rgb(204,204,204)",
+                    "name": "chrome"
+                  },
+                  {
+                    "color": "rgb(11,11,11)",
+                    "name": "color_2"
+                  },
+                  {
+                    "color": "#ffffff",
+                    "name": "color_8"
+                  },
+                  {
+                    "color": "#ffffff",
+                    "name": "color_9"
+                  },
+                  {
+                    "color": "#000000",
+                    "name": "color_3"
+                  }
+                ]
+              },
+              {
+                "className": "Ns",
+                "id": "s/7292",
+                "x": 3551.8,
+                "y": 3764.7999999999997,
+                "z": 186,
+                "otf": 1,
+                "sX": 100,
+                "sY": 100,
+                "sZ": 100,
+                "fX": 0,
+                "fY": 0,
+                "a": 0,
+                "aframe": 0,
+                "stored": {
+                  "id": "s/7292",
+                  "cid": "28",
+                  "data": null,
+                  "className": null,
+                  "size": [
+                    "60",
+                    "30",
+                    "39"
+                  ],
+                  "g": false
+                },
+                "puid": "p50",
+                "materials": [
+                  {
+                    "color": "#FFFFFF",
+                    "texture": "metal_1062",
+                    "name": "wood",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "color": "#99b05f",
+                    "name": "color_1"
+                  },
+                  {
+                    "color": "#708146",
+                    "name": "color_2"
+                  },
+                  {
+                    "name": "flower_1"
+                  },
+                  {
+                    "name": "leaves_1"
+                  },
+                  {
+                    "color": "#8b7656",
+                    "texture": "ground_8",
+                    "name": "ground"
+                  },
+                  {
+                    "name": "leaves_2"
+                  }
+                ]
+              },
+              {
+                "className": "Ns",
+                "id": "s/7292",
+                "x": 3430,
+                "y": 3773,
+                "z": 90,
+                "otf": 1,
+                "sX": 100,
+                "sY": 100,
+                "sZ": 100,
+                "fX": 0,
+                "fY": 0,
+                "a": 0,
+                "aframe": 0,
+                "stored": {
+                  "id": "s/7292",
+                  "cid": "28",
+                  "className": "Ns",
+                  "size": [
+                    "60",
+                    "30",
+                    "39"
+                  ],
+                  "g": false
+                },
+                "puid": "p51",
+                "materials": [
+                  {
+                    "color": "#38332f",
+                    "texture": "wood_12",
+                    "name": "wood"
+                  },
+                  {
+                    "color": "#99b05f",
+                    "name": "color_1"
+                  },
+                  {
+                    "color": "#708146",
+                    "name": "color_2"
+                  },
+                  {
+                    "name": "flower_1"
+                  },
+                  {
+                    "name": "leaves_1"
+                  },
+                  {
+                    "color": "#8b7656",
+                    "texture": "ground_8",
+                    "name": "ground"
+                  },
+                  {
+                    "name": "leaves_2"
+                  }
+                ]
+              },
+              {
+                "className": "Ns",
+                "id": "s/5739",
+                "x": 3557,
+                "y": 3779,
+                "z": 90,
+                "otf": 1,
+                "sX": 100,
+                "sY": 100,
+                "sZ": 100,
+                "fX": 0,
+                "fY": 0,
+                "a": 0,
+                "aframe": 0,
+                "stored": {
+                  "id": "s/5739",
+                  "cid": "27",
+                  "data": null,
+                  "className": null,
+                  "size": [
+                    "22",
+                    "24",
+                    "31"
+                  ],
+                  "g": false
+                },
+                "puid": "p55",
+                "materials": [
+                  {
+                    "color": "rgb(10,9,4)",
+                    "name": "color_1"
+                  },
+                  {
+                    "color": "#d3955f",
+                    "texture": "wood_3",
+                    "name": "wood"
+                  },
+                  {
+                    "color": "rgb(204,204,204)",
+                    "name": "chrome"
+                  }
+                ]
+              },
+              {
+                "className": "Ns",
+                "id": "s/5734",
+                "x": 3376.285714285714,
+                "y": 3771.857142857143,
+                "z": 90,
+                "otf": 1,
+                "sX": 100,
+                "sY": 100,
+                "sZ": 90.69767441860465,
+                "fX": 0,
+                "fY": 0,
+                "a": 0,
+                "aframe": 0,
+                "stored": {
+                  "id": "s/5734",
+                  "cid": "27",
+                  "data": null,
+                  "className": null,
+                  "size": [
+                    "45",
+                    "32",
+                    "43"
+                  ],
+                  "g": false
+                },
+                "puid": "p56",
+                "materials": [
+                  {
+                    "color": "#c0c0c0",
+                    "name": "color_1_glos"
+                  },
+                  {
+                    "color": "#c0c0c0",
+                    "name": "color_2_glos"
+                  },
+                  {
+                    "color": "rgb(204,204,204)",
+                    "name": "chrome"
+                  },
+                  {
+                    "color": "#FFFFFF",
+                    "texture": "wood_1007",
+                    "name": "wood",
+                    "scale": "1",
+                    "rotate": "0"
+                  }
+                ]
+              },
+              {
+                "className": "Ns",
+                "id": "s/5691",
+                "x": 3360,
+                "y": 3796,
+                "z": 94,
+                "otf": 1,
+                "sX": 77.77777777777779,
+                "sY": 75.86206896551724,
+                "sZ": 100,
+                "fX": 0,
+                "fY": 0,
+                "a": -90,
+                "aframe": 0,
+                "stored": {
+                  "id": "s/5691",
+                  "cid": "27",
+                  "data": null,
+                  "className": null,
+                  "size": [
+                    "90",
+                    "29",
+                    "77"
+                  ],
+                  "g": false
+                },
+                "puid": "p57",
+                "materials": [
+                  {
+                    "color": "rgb(4,4,4)",
+                    "name": "color_1"
+                  },
+                  {
+                    "color": "rgb(16,40,2)",
+                    "name": "color_3_glos"
+                  },
+                  {
+                    "color": "rgb(7,7,7)",
+                    "name": "color_2"
+                  },
+                  {
+                    "color": "rgb(255,255,255)",
+                    "name": "color_4"
+                  },
+                  {
+                    "color": "rgb(204,204,204)",
+                    "name": "chrome"
+                  },
+                  {
+                    "color": "#FFFFFF",
+                    "texture": "solo_7",
+                    "name": "wood",
+                    "scale": "1",
+                    "rotate": "0"
+                  }
+                ]
+              },
+              {
+                "className": "Ns",
+                "id": "s/7301",
+                "x": 3608.5714285714284,
+                "y": 3780.2857142857147,
+                "z": 146,
+                "otf": 1,
+                "sX": 100,
+                "sY": 100,
+                "sZ": 100,
+                "fX": 0,
+                "fY": 0,
+                "a": 0,
+                "aframe": 0,
+                "stored": {
+                  "id": "s/7301",
+                  "cid": "28",
+                  "data": null,
+                  "className": null,
+                  "size": [
+                    "54",
+                    "48",
+                    "88"
+                  ],
+                  "g": false
+                },
+                "puid": "p58",
+                "materials": [
+                  {
+                    "color": "#353535",
+                    "name": "color_4"
+                  },
+                  {
+                    "color": "#353535",
+                    "name": "color_2_glos"
+                  },
+                  {
+                    "name": "leaves_2"
+                  },
+                  {
+                    "name": "leaves_1"
+                  },
+                  {
+                    "color": "#362e2b",
+                    "texture": "potang_1_6",
+                    "name": "potang"
+                  },
+                  {
+                    "color": "#5ca63d",
+                    "texture": "ground_11",
+                    "name": "ground"
+                  },
+                  {
+                    "color": "#0c0c0c",
+                    "name": "color_3"
+                  },
+                  {
+                    "color": "#708146",
+                    "name": "color_1"
+                  },
+                  {
+                    "name": "flower_1"
+                  }
+                ]
+              },
+              {
+                "className": "Ns",
+                "id": "s/5692",
+                "x": 3534,
+                "y": 3772,
+                "z": 90,
+                "otf": 1,
+                "sX": 100,
+                "sY": 100,
+                "sZ": 100,
+                "fX": 0,
+                "fY": 0,
+                "a": 0,
+                "aframe": 0,
+                "stored": {
+                  "id": "s/5692",
+                  "cid": "27",
+                  "data": null,
+                  "className": null,
+                  "size": [
+                    "21",
+                    "18",
+                    "22"
+                  ],
+                  "g": false
+                },
+                "puid": "p59",
+                "materials": [
+                  {
+                    "color": "rgb(255,255,255)",
+                    "name": "color_2"
+                  },
+                  {
+                    "color": "rgb(204,204,204)",
+                    "name": "chrome"
+                  },
+                  {
+                    "color": "rgb(11,11,11)",
+                    "name": "color_1"
+                  }
+                ]
+              },
+              {
+                "className": "Ns",
+                "id": "s/5689",
+                "x": 3474.285714285714,
+                "y": 3758.285714285714,
+                "z": 106,
+                "otf": 1,
+                "sX": 100,
+                "sY": 100,
+                "sZ": 100,
+                "fX": 0,
+                "fY": 0,
+                "a": 0,
+                "aframe": 0,
+                "stored": {
+                  "id": "s/5689",
+                  "cid": "27",
+                  "data": null,
+                  "className": null,
+                  "size": [
+                    "26",
+                    "7",
+                    "35"
+                  ],
+                  "g": false
+                },
+                "puid": "p60",
+                "materials": [
+                  {
+                    "color": "rgb(204,204,204)",
+                    "name": "chrome"
+                  },
+                  {
+                    "color": "rgb(7,7,7)",
+                    "name": "color_2"
+                  },
+                  {
+                    "color": "rgb(255,255,255)",
+                    "name": "color_1_glos"
+                  }
+                ]
+              },
+              {
+                "className": "Ns",
+                "id": "s/5688",
+                "x": 3425,
+                "y": 3764.5714285714284,
+                "z": 185,
+                "otf": 1,
+                "sX": 100,
+                "sY": 100,
+                "sZ": 100,
+                "fX": 0,
+                "fY": 0,
+                "a": 0,
+                "aframe": 0,
+                "stored": {
+                  "id": "s/5688",
+                  "cid": "27",
+                  "data": null,
+                  "className": null,
+                  "size": [
+                    "30",
+                    "10",
+                    "15"
+                  ],
+                  "g": false
+                },
+                "puid": "p61",
+                "materials": [
+                  {
+                    "color": "rgb(32,11,6)",
+                    "name": "color_2_glos"
+                  },
+                  {
+                    "color": "rgb(187,38,18)",
+                    "name": "color_3_glos"
+                  },
+                  {
+                    "color": "rgb(255,255,255)",
+                    "name": "color_4_glos"
+                  },
+                  {
+                    "color": "rgb(11,11,11)",
+                    "name": "color_1"
+                  }
+                ]
+              },
+              {
+                "className": "Ns",
+                "id": "s/5686",
+                "x": 3451.8571428571427,
+                "y": 3764.714285714286,
+                "z": 185,
+                "otf": 1,
+                "sX": 100,
+                "sY": 100,
+                "sZ": 100,
+                "fX": 0,
+                "fY": 0,
+                "a": 0,
+                "aframe": 0,
+                "stored": {
+                  "id": "s/5686",
+                  "cid": "27",
+                  "data": null,
+                  "className": null,
+                  "size": [
+                    "12",
+                    "12",
+                    "32"
+                  ],
+                  "g": false
+                },
+                "puid": "p62",
+                "materials": [
+                  {
+                    "color": "rgb(48,44,39)",
+                    "name": "color_2"
+                  },
+                  {
+                    "color": "rgb(255,255,255)",
+                    "name": "color_1_glos"
+                  }
+                ]
+              },
+              {
+                "className": "Ns",
+                "id": "s/5663",
+                "x": 3609,
+                "y": 3775,
+                "z": 90,
+                "otf": 1,
+                "sX": 100,
+                "sY": 100,
+                "sZ": 100,
+                "fX": 0,
+                "fY": 0,
+                "a": 0,
+                "aframe": 0,
+                "stored": {
+                  "id": "s/5663",
+                  "cid": "27",
+                  "data": null,
+                  "className": null,
+                  "size": [
+                    "30",
+                    "30",
+                    "38"
+                  ],
+                  "g": false
+                },
+                "puid": "p63",
+                "materials": [
+                  {
+                    "color": "#ffffff",
+                    "name": "color_1_glos"
+                  },
+                  {
+                    "color": "#090909",
+                    "name": "color_2"
+                  }
+                ]
+              },
+              {
+                "className": "Ns",
+                "id": "s/5649",
+                "x": 3584,
+                "y": 3792,
+                "z": 91,
+                "otf": 1,
+                "sX": 100,
+                "sY": 100,
+                "sZ": 100,
+                "fX": 0,
+                "fY": 0,
+                "a": 0,
+                "aframe": 0,
+                "stored": {
+                  "id": "s/5649",
+                  "cid": "27",
+                  "data": null,
+                  "className": null,
+                  "size": [
+                    "32",
+                    "30",
+                    "9"
+                  ],
+                  "g": false
+                },
+                "puid": "p64",
+                "materials": [
+                  {
+                    "color": "#FFFFFF",
+                    "texture": "solo_7",
+                    "name": "wood_glos",
+                    "scale": "1",
+                    "rotate": "0"
+                  }
+                ]
+              },
+              {
+                "className": "Ns",
+                "id": "s/1835",
+                "x": 3505.5714285714284,
+                "y": 3765.714285714286,
+                "z": 185,
+                "otf": 1,
+                "sX": 100,
+                "sY": 100,
+                "sZ": 100,
+                "fX": 0,
+                "fY": 0,
+                "a": 0,
+                "aframe": 0,
+                "stored": {
+                  "id": "s/1835",
+                  "cid": "27",
+                  "data": null,
+                  "className": null,
+                  "size": [
+                    "16",
+                    "12",
+                    "13"
+                  ],
+                  "g": false
+                },
+                "puid": "p65",
+                "materials": [
+                  {
+                    "color": "rgb(168,58,0)",
+                    "name": "color_2_glos"
+                  },
+                  {
+                    "color": "rgb(25,9,0)",
+                    "name": "color_4_glos"
+                  },
+                  {
+                    "color": "rgb(204,204,204)",
+                    "name": "color_1_glos"
+                  },
+                  {
+                    "color": "rgb(204,169,130)",
+                    "name": "color_3_glos"
+                  }
+                ]
+              },
+              {
+                "className": "Ns",
+                "id": "s/1827",
+                "x": 3543.571428571429,
+                "y": 3767,
+                "z": 145,
+                "otf": 1,
+                "sX": 100,
+                "sY": 100,
+                "sZ": 100,
+                "fX": 0,
+                "fY": 0,
+                "a": 0,
+                "aframe": 0,
+                "stored": {
+                  "id": "s/1827",
+                  "cid": "27",
+                  "data": null,
+                  "className": null,
+                  "size": [
+                    "52",
+                    "16",
+                    "21"
+                  ],
+                  "g": false
+                },
+                "puid": "p66",
+                "materials": [
+                  {
+                    "color": "rgb(163,163,163)",
+                    "name": "chrome"
+                  },
+                  {
+                    "color": "rgb(255,255,255)",
+                    "name": "color_1_glos"
+                  }
+                ]
+              },
+              {
+                "className": "Ns",
+                "id": 530,
+                "x": 3482.5714285714284,
+                "y": 3770.5714285714284,
+                "z": 145,
+                "otf": 1,
+                "sX": 100,
+                "sY": 100,
+                "sZ": 100,
+                "fX": 0,
+                "fY": 0,
+                "a": 0,
+                "aframe": 0,
+                "puid": "p67",
+                "materials": [
+                  {
+                    "color": "rgb(191,0,0)",
+                    "name": "color_1"
+                  },
+                  {
+                    "color": "rgb(163,163,163)",
+                    "name": "color"
+                  }
+                ]
+              },
+              {
+                "className": "Ns",
+                "id": "s/1883",
+                "x": 3490,
+                "y": 3759,
+                "z": 140,
+                "otf": 1,
+                "sX": 123.18840579710144,
+                "sY": 18.75,
+                "sZ": 3.0303030303030303,
+                "fX": 0,
+                "fY": 0,
+                "a": 0,
+                "aframe": 0,
+                "stored": {
+                  "id": "s/1883",
+                  "cid": "55",
+                  "data": null,
+                  "className": null,
+                  "size": [
+                    "138",
+                    "16",
+                    "99"
+                  ],
+                  "g": false
+                },
+                "puid": "p70",
+                "materials": [
+                  {
+                    "color": "#858585",
+                    "name": "color_1_lamp_hood"
+                  },
+                  {
+                    "color": "#858585",
+                    "name": "chrome"
+                  },
+                  {
+                    "color": "#030303",
+                    "name": "color_2"
+                  },
+                  {
+                    "color": "#FFFFFF",
+                    "texture": "solo_1",
+                    "name": "wood_1",
+                    "scale": "1",
+                    "rotate": "0"
+                  }
+                ]
+              },
+              {
+                "className": "Ns",
+                "id": 130,
+                "x": 3585,
+                "y": 3783,
+                "z": 91,
+                "otf": 1,
+                "sX": 47.368421052631575,
+                "sY": 42.30769230769231,
+                "sZ": 40,
+                "fX": 0,
+                "fY": 0,
+                "a": 0,
+                "aframe": 0,
+                "puid": "p71",
+                "materials": [
+                  {
+                    "name": "leaves"
+                  },
+                  {
+                    "color": "rgb(35,13,2)",
+                    "name": "color"
+                  }
+                ]
+              },
+              {
+                "className": "Ns",
+                "id": "s/1075",
+                "x": 3515,
+                "y": 3992,
+                "z": 0,
+                "otf": 1,
+                "sX": 72.96137339055794,
+                "sY": 113.04347826086956,
+                "sZ": 87.61904761904762,
+                "fX": 0,
+                "fY": 0,
+                "a": -180,
+                "aframe": 0,
+                "stored": {
+                  "id": "s/1075",
+                  "cid": "62",
+                  "data": null,
+                  "className": null,
+                  "size": [
+                    "233",
+                    "115",
+                    "105"
+                  ],
+                  "g": false
+                },
+                "puid": "p76",
+                "materials": [
+                  {
+                    "color": "rgb(255,255,255)",
+                    "name": "color_8"
+                  },
+                  {
+                    "color": "rgb(132,132,132)",
+                    "name": "chrome"
+                  },
+                  {
+                    "color": "rgb(163,163,163)",
+                    "name": "color_9"
+                  },
+                  {
+                    "color": "#FFFFFF",
+                    "texture": "solo_7",
+                    "name": "wood",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "color": "#FFFFFF",
+                    "texture": "metal_1020",
+                    "name": "stone",
+                    "scale": "1",
+                    "rotate": "0"
+                  }
+                ]
+              },
+              {
+                "className": "Ns",
+                "id": "s/4671",
+                "x": 3516,
+                "y": 3962,
+                "z": 163,
+                "otf": 1,
+                "sX": 100,
+                "sY": 100,
+                "sZ": 110.67961165048543,
+                "fX": 0,
+                "fY": 0,
+                "a": 0,
+                "aframe": 0,
+                "stored": {
+                  "id": "s/4671",
+                  "cid": "20",
+                  "data": null,
+                  "className": null,
+                  "size": [
+                    "40",
+                    "40",
+                    "103"
+                  ],
+                  "g": false
+                },
+                "puid": "p79",
+                "materials": [
+                  {
+                    "color": "rgb(255,255,255)",
+                    "name": "color_3"
+                  },
+                  {
+                    "color": "rgb(47,47,47)",
+                    "name": "color_2"
+                  },
+                  {
+                    "name": "grid"
+                  },
+                  {
+                    "color": "rgb(204,204,204)",
+                    "name": "chrome"
+                  },
+                  {
+                    "color": "rgb(4,4,4)",
+                    "name": "color_1"
+                  }
+                ]
+              },
+              {
+                "className": "Ns",
+                "id": "s/4420",
+                "x": 3517,
+                "y": 3961,
+                "z": -5,
+                "otf": 1,
+                "sX": 100,
+                "sY": 100,
+                "sZ": 100,
+                "fX": 0,
+                "fY": 0,
+                "a": -180,
+                "aframe": 0,
+                "stored": {
+                  "id": "s/4420",
+                  "cid": "20",
+                  "data": null,
+                  "className": null,
+                  "size": [
+                    "60",
+                    "64",
+                    "85"
+                  ],
+                  "g": false
+                },
+                "puid": "p82",
+                "materials": [
+                  {
+                    "color": "rgb(17,17,17)",
+                    "name": "color_4_glos"
+                  },
+                  {
+                    "color": "rgb(3,3,3)",
+                    "name": "color_2_glos"
+                  },
+                  {
+                    "color": "rgb(204,204,204)",
+                    "name": "color_5"
+                  },
+                  {
+                    "color": "rgb(12,12,12)",
+                    "name": "color_1"
+                  },
+                  {
+                    "color": "rgb(223,223,223)",
+                    "name": "color_3_glos"
+                  }
+                ]
+              },
+              {
+                "className": "Ns",
+                "id": "s/7326",
+                "x": 3550,
+                "y": 4064,
+                "z": 0,
+                "otf": 1,
+                "sX": 100,
+                "sY": 100,
+                "sZ": 94.44444444444444,
+                "fX": 0,
+                "fY": 0,
+                "a": -180,
+                "aframe": 0,
+                "stored": {
+                  "id": "s/7326",
+                  "cid": "49",
+                  "data": null,
+                  "className": null,
+                  "size": [
+                    "38",
+                    "39",
+                    "90"
+                  ],
+                  "g": false
+                },
+                "puid": "p84",
+                "materials": [
+                  {
+                    "color": "#FFFFFF",
+                    "texture": "solo_7",
+                    "name": "wood",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "color": "#FFFFFF",
+                    "texture": "textile_1009",
+                    "name": "textile",
+                    "scale": "1",
+                    "rotate": "0"
+                  }
+                ]
+              },
+              {
+                "className": "Ns",
+                "id": "s/7326",
+                "x": 3486,
+                "y": 4065,
+                "z": 0,
+                "otf": 1,
+                "sX": 100,
+                "sY": 100,
+                "sZ": 94.44444444444444,
+                "fX": 0,
+                "fY": 0,
+                "a": -180,
+                "aframe": 0,
+                "stored": {
+                  "id": "s/7326",
+                  "cid": "49",
+                  "data": null,
+                  "className": null,
+                  "size": [
+                    "38",
+                    "39",
+                    "90"
+                  ],
+                  "g": false
+                },
+                "materials": [
+                  {
+                    "color": "#FFFFFF",
+                    "texture": "solo_7",
+                    "name": "wood",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "color": "#FFFFFF",
+                    "texture": "textile_1009",
+                    "name": "textile",
+                    "scale": "1",
+                    "rotate": "0"
+                  }
+                ],
+                "puid": "p86"
+              },
+              {
+                "className": "Ns",
+                "id": "s/7284",
+                "x": 3447.5,
+                "y": 4008.25,
+                "z": 92,
+                "otf": 1,
+                "sX": 100,
+                "sY": 100,
+                "sZ": 100,
+                "fX": 0,
+                "fY": 0,
+                "a": 0,
+                "aframe": 0,
+                "stored": {
+                  "id": "s/7284",
+                  "cid": "99",
+                  "data": null,
+                  "className": null,
+                  "size": [
+                    "26",
+                    "26",
+                    "35"
+                  ],
+                  "g": false
+                },
+                "puid": "p98",
+                "materials": [
+                  {
+                    "color": "#708146",
+                    "name": "color_2"
+                  },
+                  {
+                    "color": "#ffffff",
+                    "name": "color_1"
+                  },
+                  {
+                    "name": "flower_1"
+                  },
+                  {
+                    "color": "#332313",
+                    "texture": "wood_11",
+                    "name": "wood"
+                  },
+                  {
+                    "color": "#0c0c0c",
+                    "name": "color_3"
+                  }
+                ]
+              },
+              {
+                "className": "Ns",
+                "id": "s/5649",
+                "x": 3483.5,
+                "y": 4013.25,
+                "z": 92,
+                "otf": 1,
+                "sX": 100,
+                "sY": 100,
+                "sZ": 100,
+                "fX": 0,
+                "fY": 0,
+                "a": 0,
+                "aframe": 0,
+                "stored": {
+                  "id": "s/5649",
+                  "cid": "27",
+                  "className": "Ns",
+                  "size": [
+                    "32",
+                    "30",
+                    "9"
+                  ],
+                  "g": false
+                },
+                "puid": "p99",
+                "materials": [
+                  {
+                    "color": "#FFFFFF",
+                    "texture": "solo_7",
+                    "name": "wood_glos",
+                    "scale": "1",
+                    "rotate": "0"
+                  }
+                ]
+              },
+              {
+                "className": "Ns",
+                "id": "s/5608",
+                "x": 3482.75,
+                "y": 4012.5,
+                "z": 94,
+                "otf": 1,
+                "sX": 100,
+                "sY": 100,
+                "sZ": 100,
+                "fX": 0,
+                "fY": 0,
+                "a": 0,
+                "aframe": 0,
+                "stored": {
+                  "id": "s/5608",
+                  "cid": "27",
+                  "data": null,
+                  "className": null,
+                  "size": [
+                    "30",
+                    "30",
+                    "10"
+                  ],
+                  "g": false
+                },
+                "puid": "p100",
+                "materials": [
+                  {
+                    "color": "rgb(204,204,204)",
+                    "name": "chrome"
+                  }
+                ]
+              },
+              {
+                "className": "Ns",
+                "id": 678,
+                "x": 3568.5,
+                "y": 4025,
+                "z": 92,
+                "otf": 1,
+                "sX": 100,
+                "sY": 100,
+                "sZ": 100,
+                "fX": 0,
+                "fY": 0,
+                "a": 0,
+                "aframe": 0,
+                "puid": "p101",
+                "materials": [
+                  {
+                    "color": "rgb(132,3,0)",
+                    "name": "color_1"
+                  },
+                  {
+                    "color": "rgb(81,132,0)",
+                    "name": "color_2"
+                  },
+                  {
+                    "color": "rgb(6,2,1)",
+                    "name": "color_4"
+                  },
+                  {
+                    "color": "rgb(4,50,64)",
+                    "name": "color"
+                  },
+                  {
+                    "color": "#cc9762",
+                    "texture": "potang_3_1",
+                    "name": "potang"
+                  },
+                  {
+                    "color": "rgb(193,204,0)",
+                    "name": "color_3"
+                  }
+                ]
+              },
+              {
+                "className": "Pr",
+                "t": "box",
+                "materials": [
+                  {
+                    "name": "top",
+                    "texture": "wallp_0",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "bottom",
+                    "texture": "wallp_0",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "left",
+                    "texture": "wallp_0",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "right",
+                    "texture": "wallp_0",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "front",
+                    "texture": "wallp_0",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "back",
+                    "texture": "wallp_0",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "all",
+                    "texture": "wallp_0",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  }
+                ],
+                "x": 3559,
+                "y": 4174,
+                "z": 0,
+                "sX": 2,
+                "sY": 415,
+                "sZ": 20,
+                "aX": 0,
+                "aY": -90,
+                "aZ": 0,
+                "puid": "p102"
+              },
+              {
+                "className": "Pr",
+                "t": "box",
+                "materials": [
+                  {
+                    "name": "top",
+                    "texture": "wallp_0",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "bottom",
+                    "texture": "wallp_0",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "left",
+                    "texture": "wallp_0",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "right",
+                    "texture": "wallp_0",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "front",
+                    "texture": "wallp_0",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "back",
+                    "texture": "wallp_0",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "all",
+                    "texture": "wallp_0",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  }
+                ],
+                "x": 3726,
+                "y": 3756,
+                "z": 0,
+                "sX": 2,
+                "sY": 80,
+                "sZ": 20,
+                "aX": 0,
+                "aY": -90,
+                "aZ": 0,
+                "puid": "p103"
+              },
+              {
+                "className": "Pr",
+                "t": "box",
+                "materials": [
+                  {
+                    "name": "top",
+                    "texture": "solo_1",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "bottom",
+                    "texture": "solo_1",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "left",
+                    "texture": "solo_1",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "right",
+                    "texture": "solo_1",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "front",
+                    "texture": "solo_1",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "back",
+                    "texture": "solo_1",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "all",
+                    "texture": "solo_1",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  }
+                ],
+                "x": 3626,
+                "y": 3814,
+                "z": 0,
+                "sX": 10,
+                "sY": 2,
+                "sZ": 15,
+                "aX": 0,
+                "aY": -90,
+                "aZ": 0,
+                "puid": "p104"
+              },
+              {
+                "className": "Door",
+                "id": 756,
+                "x": 3772.0227272727275,
+                "y": 4005,
+                "z": 2,
+                "otf": 1,
+                "sX": 67.56756756756756,
+                "sY": 100,
+                "sZ": 100,
+                "fX": 0,
+                "fY": 0,
+                "a": 0,
+                "aframe": 0,
+                "puid": "p108",
+                "materials": [
+                  {
+                    "color": "#ffffff",
+                    "name": "color_1"
+                  },
+                  {
+                    "color": "#000000",
+                    "name": "chrome"
+                  },
+                  {
+                    "color": "#FFFFFF",
+                    "texture": "solo_1",
+                    "name": "wood",
+                    "scale": "1",
+                    "rotate": "0"
+                  }
+                ],
+                "wall": "p6"
+              },
+              {
+                "className": "Ns",
+                "id": "s/1087",
+                "x": 3516,
+                "y": 3881,
+                "z": 247,
+                "otf": 1,
+                "sX": 50,
+                "sY": 100,
+                "sZ": 100,
+                "fX": 0,
+                "fY": 0,
+                "a": 0,
+                "aframe": 0,
+                "stored": {
+                  "id": "s/1087",
+                  "cid": "55",
+                  "data": null,
+                  "className": null,
+                  "size": [
+                    "400",
+                    "22",
+                    "29"
+                  ],
+                  "g": false
+                },
+                "puid": "p96",
+                "materials": [
+                  {
+                    "color": "#bfbfbf",
+                    "name": "chrome"
+                  },
+                  {
+                    "color": "#ffffff",
+                    "name": "color_8"
+                  }
+                ]
+              },
+              {
+                "className": "Pr",
+                "t": "box",
+                "materials": [
+                  {
+                    "name": "top",
+                    "texture": "wallp_0",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "bottom",
+                    "texture": "wallp_0",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "left",
+                    "texture": "wallp_0",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "right",
+                    "texture": "wallp_0",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "front",
+                    "texture": "wallp_0",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "back",
+                    "texture": "wallp_0",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "all",
+                    "texture": "wallp_0",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  }
+                ],
+                "x": 3765,
+                "y": 4152,
+                "z": 0,
+                "sX": 2,
+                "sY": 43,
+                "sZ": 20,
+                "aX": 0,
+                "aY": 0,
+                "aZ": 0,
+                "puid": "p109"
+              },
+              {
+                "className": "Pr",
+                "t": "box",
+                "materials": [
+                  {
+                    "name": "top",
+                    "texture": "wallp_0",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "bottom",
+                    "texture": "wallp_0",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "left",
+                    "texture": "wallp_0",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "right",
+                    "texture": "wallp_0",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "front",
+                    "texture": "wallp_0",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "back",
+                    "texture": "wallp_0",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  },
+                  {
+                    "name": "all",
+                    "texture": "wallp_0",
+                    "tcolor": "#ffffff",
+                    "scale": "1",
+                    "rotate": "0"
+                  }
+                ],
+                "x": 3765,
+                "y": 3819,
+                "z": 0,
+                "sX": 2,
+                "sY": 125,
+                "sZ": 20,
+                "aX": 0,
+                "aY": 0,
+                "aZ": 0,
+                "puid": "p110"
+              }
+            ]
+          }
+        ]
+      },
+      "gstatus": "6",
+      "deleted": "0",
+      "my": false,
+      "readOnly": 0
+    }
+  ],
+  "storage": "cluster,6",
+  "copyright": "Planner 5D®© 2011—2020",
+  "error": 0
+}

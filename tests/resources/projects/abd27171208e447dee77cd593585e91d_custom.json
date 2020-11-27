@@ -1,0 +1,165 @@
+{
+  "items": [
+    {
+      "name": "Kitchen",
+      "hash": "abd27171208e447dee77cd593585e91d",
+      "data": {
+        "className": "Project",
+        "cover": 26,
+        "items": [
+          {
+            "className": "Floor",
+            "name": "First floor",
+            "items": [
+              {
+                "className": "Room",
+                "x": 3750,
+                "y": 3750,
+                "z": 0,
+                "rtype": 13,
+                "h": 280,
+                "thickness": 10,
+                "rhidden": false,
+                "fhidden": false,
+                "puid": "p2",
+                "items": [
+                  {
+                    "className": "Wall",
+                    "hidden": false,
+                    "w": 10,
+                    "materials": {
+                      "indoor": {
+                        "texture": "concrete_1014",
+                        "color": "#ffffff",
+                        "scale": "2",
+                        "rotate": "0",
+                        "tcolor": "#ffffff"
+                      },
+                      "outdoor": {
+                        "texture": "wallp_0",
+                        "color": "#ffffff",
+                        "scale": 1,
+                        "rotate": 0,
+                        "tcolor": "#ffffff"
+                      }
+                    },
+                    "puid": "p3",
+                    "items": [
+                      {
+                        "className": "Point",
+                        "x": -435.2000000000003,
+                        "y": 0,
+                        "puid": "p4"
+                      },
+                      {
+                        "className": "Point",
+                        "x": 21.02272727272748,
+                        "y": 0,
+                        "puid": "p5"
+                      }
+                    ]
+                  },
+                  {
+                    "className": "Wall",
+                    "hidden": false,
+                    "w": 10,
+                    "materials": {
+                      "indoor": {
+                        "texture": "wallp_0",
+                        "color": "#ffffff",
+                        "scale": 1,
+                        "rotate": 0,
+                        "tcolor": "#ffffff"
+                      },
+                      "outdoor": {
+                        "texture": "wallp_0",
+                        "color": "#ffffff",
+                        "scale": 1,
+                        "rotate": 0,
+                        "tcolor": "#ffffff"
+                      }
+                    },
+                    "puid": "p6",
+                    "items": [
+                      {
+                        "className": "Point",
+                        "x": 21.02272727272748,
+                        "y": 0,
+                        "puid": "p7"
+                      },
+                      {
+                        "className": "Point",
+                        "x": 21.02272727272748,
+                        "y": 429.7142857142853,
+                        "puid": "p8"
+                      }
+                    ]
+                  },
+                  {
+                    "className": "Wall",
+                    "hidden": false,
+                    "w": 10,
+                    "materials": {
+                      "indoor": {
+                        "texture": "concrete_1014",
+                        "color": "#ffffff",
+                        "scale": "2",
+                        "rotate": "0",
+                        "tcolor": "#ffffff"
+                      },
+                      "outdoor": {
+                        "texture": "wallp_0",
+                        "color": "#ffffff",
+                        "scale": 1,
+                        "rotate": 0,
+                        "tcolor": "#ffffff"
+                      }
+                    },
+                    "puid": "p9",
+                    "items": [
+                      {
+                        "className": "Point",
+                        "x": 21.02272727272748,
+                        "y": 429.7142857142853,
+                        "puid": "p10"
+                      },
+                      {
+                        "className": "Point",
+                        "x": -435.2000000000003,
+                        "y": 429.7142857142853,
+                        "puid": "p11"
+                      }
+                    ]
+                  },
+                  {
+                    "className": "Wall",
+                    "hidden": false,
+                    "w": 40,
+                    "puid": "p12",
+                    "items": [
+                      {
+                        "className": "Point",
+                        "x": -435.2000000000003,
+                        "y": 429.7142857142853,
+                        "puid": "p13"
+                      },
+                      {
+                        "className": "Point",
+                        "x": -435.2000000000003,
+                        "y": 0,
+                        "puid": "p14"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "storage": "cluster,6",
+  "copyright": "Planner 5D®© 2011—2020",
+  "error": 0
+}

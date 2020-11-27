@@ -1,0 +1,27 @@
+<table class="preview">
+
+    <tr>
+        <td>Title:</td>
+        <td>{{ project.title }}</td>
+    </tr>
+
+    <tr>
+        <td>QRCode:</td>
+        <td><img src="{{ asset("qr_codes/") ~ project.hash ~ ".png" }}" alt="Symfony"/></td>
+    </tr>
+
+    <tr>
+        <td>Hits:</td>
+        <td>{{ project.hits }}</td>
+    </tr>
+
+    <tr>
+        <td>Stats:</td>
+        <td>
+            Floors: {{ project.numFloors }} </br>
+            Rooms: {{ project.numRooms }} </br>
+            Other Items: {{ project.numOtherItems }}
+        </td>
+    </tr>
+
+</table>

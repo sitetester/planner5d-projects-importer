@@ -1,0 +1,56 @@
+{% extends "base.html.twig" %}
+
+{% block head %}
+    <title>{% block title %} Projects Listing{% endblock %}</title>
+    <link href="{{ asset('style.css') }}" rel="stylesheet"/>
+
+    <!-- Remember to include jQuery :) -->
+    <script src="{{ asset('js/jquery.min.js') }}"></script>
+
+    <!-- jQuery Modal -->
+    <script src="{{ asset('js/jquery.modal.min.js') }}"></script>
+
+    <link href="{{ asset('css/jquery.modal.min.css') }}" rel="stylesheet"/>
+
+{% endblock %}
+
+{% set counter = 0 %}
+
+{% block body %}
+    <table cellspacing="0" cellpadding="0" class="listing">
+        <tr>
+            <th>Sr. #</th>
+            <th>Thumbnail</th>
+            <th>Title</th>
+            <th>Views</th>
+            <th>Floors</th>
+            <th>Rooms</th>
+            <th>Other items</th>
+            <th>About</th>
+        </tr>
+        {% for index, project in projects %}
+            {% set counter = counter +1 %}
+            <tr>
+                <td width="3%">{{ (index + 1)  + ( (pageNum -1) * projectsPerPage) }}</td>
+                <td width="20%"><a href="{{ path('projects_preview', {'hash': project.hash }) }}"
+                                   rel="modal:open" title="{{ project.title }}"><img
+                                src="{{ project.thumbnail.src }}"
+                                alt="{{ project.thumbnail.alt }}"
+                                class="thumbnail"
+                        ></a></td>
+                <td width="20%">{{ project.title }}</td>
+                <td width="5%">{{ project.stats.numViews }}</td>
+                <td width="5%">{{ project.numFloors }}</td>
+                <td width="5%">{{ project.numRooms }}</td>
+                <td width="5%">{{ project.numOtherItems }}</td>
+                <td>{{ project.aboutContents }}</td>
+            </tr>
+        {% endfor %}
+    </table>
+
+    <div style="text-align: center">
+        {% for i in 1..maxNum %}
+            <a href="{{ path('projects_index', {pageNum: i}) }}"> {{ i }}</a>
+        {% endfor %}
+    </div>
+{% endblock %}
