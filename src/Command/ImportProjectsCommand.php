@@ -38,9 +38,9 @@ class ImportProjectsCommand extends Command
         $output->writeln('Importing projects...');
 
         if ($this->projectsImporter->import()) {
-            $output->writeln('Success!');
+            $output->writeln('<info>Success!</info>');
         } else {
-            $output->writeln('Something went wrong while importing projects. Check logs!');
+            $output->writeln('<error>Something went wrong while importing projects. Check logs!</error>');
         }
 
         return Command::SUCCESS;
